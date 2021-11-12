@@ -1,3 +1,4 @@
+package composite;
 
 public class Number implements Term {
 	private int value;

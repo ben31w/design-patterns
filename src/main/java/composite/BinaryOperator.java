@@ -1,3 +1,4 @@
+package composite;
 
 public abstract class BinaryOperator implements Term {
 	private Term left; 

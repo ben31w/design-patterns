@@ -1,3 +1,4 @@
+package composite;
 
 public class Factorial extends UnaryOperator {
 	

@@ -1,3 +1,4 @@
+package observer;
 
 public class LastCity implements Observer {
 	private City latest;

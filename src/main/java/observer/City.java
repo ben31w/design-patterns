@@ -1,3 +1,5 @@
+package observer;
+
 public final class City {
 	public final String name;
 	public final String state;

@@ -1,3 +1,4 @@
+package composite;
 
 public abstract class UnaryOperator implements Term {
 	private Term term;
